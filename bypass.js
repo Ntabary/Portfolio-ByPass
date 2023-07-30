@@ -1,7 +1,4 @@
-<html>
-<body>
-  <div id="particles-js"></div>
-  <script src="https://cdn.jsdelivr.net/gh/studio-freight/lenis@0.2.28/bundled/lenis.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/studio-freight/lenis@0.2.28/bundled/lenis.js"></script>
   <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
   <script>
     const lenis = new Lenis({
@@ -142,5 +139,3 @@ particlesJS(
 }
 )
   </script>
-</body>
-</html>
